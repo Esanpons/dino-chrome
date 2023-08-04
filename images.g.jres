@@ -14,15 +14,15 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "fondo color"
     },
-    "image4": {
-        "data": "hwQYABgAAAAAAAAAAAAAAMDMAAAAAAAAAAAAAMC9DAAAAAAAAAAAzMDdDAAAAAAAAMAMzMzdywAAAAAAAADMzLzdzQAAAADAzAC83d3dzQAAAADAzLvd3d3dvQwAAMwAvFXV3d3duwwAAMwMW1XV3d3du8wAAMC8VVXd3d3dvdsAAMBbVdXdu91V3d0AzMBVVVXdVdtV1V0AzMxVVVXdVcVdVV0AwFxVVVXdW7XbVVsAwFxVVVXVvVW8y9wAAFxVX1XVvVW8y8wAAFxV/7Vbvcy73AwAAFxV8bVbvbvL3QwAAFxVVRWzxczM2wwAAMBVVTUzxc0AvAwAAMBV1bUzxQwAzAwAAABcVbVVxQAAAAAAAADAVcXMDAAAAAAAAAAAzAwAAAAAAAA=",
-        "mimeType": "image/x-mkcd-f4",
-        "displayName": "dino"
-    },
     "image5": {
         "data": "hwQQABgAAAAAAAAAAADAzAAAAAAAAAAAwMxsxwwAAAAAAGDMbGd8d8YAAAAAAMxnfHdnd8cMAAAAzGx2xnfHd2YMAADAxmZ2x3bGdmfMAA5sZ2x2d3ZndnfG4A5cd3Z2Z3Z3dmfM7u52dXZ3Z3ZndmbG7u5mZ3Z2d3ZmdmfG4A7AZsd2Z3dndnfMAA4AbMx3Zndnd2cMAAAAAGxnfHdmd2YMAAAAAMDGbGd2d8cAAAAAAAAAwGx2ZwwAAAAAAAAAAABmxgAAAAA=",
         "mimeType": "image/x-mkcd-f4",
         "displayName": "arbolito"
+    },
+    "image4": {
+        "data": "hwQYABgAAAAAAAAAAAAAAMDMAAAAAAAAAAAgAsC9DAAAAAAAAAAAIsDdDAAAAAAAACAiIszdywAAAAAAAADCzLzdzQAAAAAiIiK83d3dzQAAAAAgwrvd3d3dvQwAICIgvFXV3d3duwwAACLCW1XV3d3du8wAACC8VVXd3d3dvdsAAMJbVdXdu91V3d0AIsJVVVXdVdtV1V0gIsxVVVXdVcVdVV0AIlxVVVXdW7XbVVsAIFxVVVXVvVW8y9wAIFxVX1XVvVW8y8wAIFxV/7Vbvcy73AwAIFxV8bVbvbvL3QwAAFxVVRWzxczM2wwAAMBVVTUzxc0AvAwAAMBV1bUzxQwAzAwAAABcVbVVxQAAAAAAAADAVcXMDAAAAAAAAAAAzAwAAAAAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "dino"
     },
     "*": {
         "mimeType": "image/x-mkcd-f4",
